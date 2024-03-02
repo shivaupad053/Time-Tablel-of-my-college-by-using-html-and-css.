@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <body style="background-color: lightpink;"
+    <br>
+    <center><img src="download.jpeg" alt="" height="150"></center> 
+   <b><marquee scrollamount="10">
+    <center>KAMLA NEHRU INSTITUTE OF PHYSICAL AND SOCIAL SCIENCES</center>
+</marquee> </b> <hr>
+     <CEnter>ENGEENERING FACULTY</CEnter>
+    <CENter>FARIDIPUR SULTANPUR(UP)</CENter>
+
+    <CENter>DEPARTMENT OF COMPUTER SCIENCES AND ENGEENERING</CENter>
+
+    <CEnter>EVEN SEMESTER TIME TABLE (Session 2023.24)</CEnter> <hr> <br>
+    <TABLE border="1">
+        <TH>
+            <TR>
+                <TD>PERIODS</TD>
+                <TD>1st 9:30AM-10:20AM</TD>
+                <TD>2nd 10:20AM-11:10AM</TD>
+                <TD rowspan="7">WATER BREAK 11:10AM-11:20AM</TD>
+                <TD>3rd 11:20AM-12:10PM</TD>
+                <TD>4th 12:10PM-01:00PM</TD>
+               <TD rowspan="7">LUNCH 01:00PM-2:00PM</TD>
+                <TD>5th 02:00PM-02:50PM</TD>
+                <TD rowspan="7">WATER BREAK 2:50PM-3:00PM</TD>
+                <TD>6th 3:00PM-3:50PM</TD>
+                <TD>7th 3:50PM-4:30</TD>
+            </TR>
+            <TR>
+                <TD>MONDAY</TD>
+                <TD>DA(JC)</TD>
+                <TD>OOSD(MR.X)</TD>
+                <TD>CD(RKG)</TD>
+                <TD>DBMS(AKS)</TD>
+                <TD>DAA(JC)</TD>
+                <TD>MOTIVATION(RT)</TD>
+                <TD rowspan="7">LIBRARY</TD>
+            </TR>
+            <TD>TUESDAY
+            </TD>
+            <TD>DAA(JC)</TD>
+            <TD>OOSD(MR.X)</TD>
+            <TD>CD(RKG)</TD>
+            
+            <TD>DBMS(AKS)</TD>
+            <TD>MOTIVATION(RT)
+            <TD>DAA LAB(RKG)</TD>
+
+            </TD>
+            <TR>
+                <TD>WEDNESDAY</TD>
+                <TD>DAA(JC)</TD>
+                <TD>OOSD(MR.X)</TD>
+                <TD>CD(RKG)</TD>
+                <TD>DBMS(AKS)</TD>
+                <TD>MOTIVATION</TD>
+                <TD>DBMS LAB(AKS)</TD>
+            </TR>
+            <TR>
+                <TD>THRUSDAY</TD>
+                <TD>DAA(JC)</TD>
+                <TD>DBMS(AKS)</TD>
+                <TD>CD(RKG)</TD>
+                <TD>OOSD(MR.X)</TD>
+                <TD>DBMS LAB(AKS)</TD>
+                <TD>CD LAB(RKG)</TD>
+            </TR>
+            <TR>
+                <TD>FRIDAY</TD>
+                <TD>DBMS(AKS)</TD>
+                <TD>DAA(JC)</TD>
+                <TD>OOSD(MR.X)</TD>
+                <TD>CD(RKG)</TD>
+                <TD>DBMS LAB(AKS)</TD>
+                <TD>DAA LAB(JC)</TD>
+            </TR>
+            <TR>
+                <TD>SATURDAY</TD>
+                <TD>DAA(JC)</TD>
+                <TD>DBMS(AKS)</TD>
+                <TD>CD(RKG)</TD>
+                <TD>OOSD(MR.X)
+                </TD>
+                <TD>MOTIVATION(RT)</TD>
+                <TD>CD LAB(RKG)</TD>
+            </TR>
+        
+        </TH>
+    </TABLE>
+    <br>
+    <br>
+    <TH>W.E.F.20/09/2023</TH>
+    <BR></BR>
+    <BR></BR>
+    <TAble border="1">
+        <TH>
+            <TR>
+                <TD>ABBREVIATION</TD>
+                <TD>NAME</TD>
+            </TR>
+            <TR>
+                <TD>AKS</TD>
+                <TD>ASHISH KUMAR SRIVASTAVA</TD>
+
+            </TR>
+            <TR>
+                <TD>JC</TD>
+                <TD>JAY CHANDRA</TD>
+            </TR>
+            <TR>
+            <TD>ST</TD>
+            <TD>SHASHANK TIWARI</TD>
+        </TR>
+        <TR>
+            <TD>RT</TD>
+            <TD>RAGVENDRA TIWARI</TD>
+        </TR>
+        <TR>
+            <TD>RKG</TD>
+            <TD>RAKESH KUMAR GAUTAM</TD>
+
+        </TR>
+        <TR>
+            <TD>MR.X</TD>
+            <TD>MR.X</TD>
+        </TR>
+
+
+
+        </TH>
+    </TAble>
+    
+    
+</body>
+</html>
